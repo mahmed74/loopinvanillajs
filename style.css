@@ -1,0 +1,15 @@
+.bodyContainer {
+  display: flex;
+  /* background-color: green; */
+  justify-content: space-around;
+}
+
+.cardsDiv {
+  width: 60% !important;
+  /* background-color: red; */
+}
+.formDiv {
+  width: 36%;
+  padding: 2%;
+  /* background-color: blue; */
+}
